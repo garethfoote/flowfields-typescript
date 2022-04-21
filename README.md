@@ -15,6 +15,6 @@ Taking an [old flow fields experiment](https://codepen.io/garethfoote/pen/MWybVz
 # License 
 
 
-See the [LICENSE](./LICENSE) file for license rights and limitations (MIT).
+See the [LICENSE](./LICENSE) file for license rights and limitations (GNU GPL v3).
 
 
