@@ -9,12 +9,12 @@ Taking an [old flow fields experiment](https://codepen.io/garethfoote/pen/MWybVz
 
 # Getting started
 
-`yarn install`
+`yarn install`  
 `yarn dev` or `yarn build`
 
 # License 
 
 
-
+See the [LICENSE](./LICENSE) file for license rights and limitations (MIT).
 
 
